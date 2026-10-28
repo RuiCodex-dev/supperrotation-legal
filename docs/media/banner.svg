@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Supper Rotation legal pages: the privacy policy for the Android family dinner rotation app, in five languages">
+<title>Supper Rotation: legal pages</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121c33"/><stop offset=".5" stop-color="#1b2a4a"/><stop offset="1" stop-color="#14408a"/></linearGradient>
+<radialGradient id="g1" cx=".08" cy="0" r=".55"><stop offset="0" stop-color="#8ab4f8" stop-opacity=".38"/><stop offset="1" stop-color="#8ab4f8" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="1" cy="1" r=".65"><stop offset="0" stop-color="#1a73e8" stop-opacity=".62"/><stop offset="1" stop-color="#1a73e8" stop-opacity="0"/></radialGradient>
+<radialGradient id="warm" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f6b73c" stop-opacity=".30"/><stop offset="1" stop-color="#f6b73c" stop-opacity="0"/></radialGradient>
+<radialGradient id="gloss" cx=".35" cy=".3" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".45"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#bcd3ff"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+<clipPath id="card"><rect width="1280" height="360" rx="28"/></clipPath>
+<mask id="tm"><text x="84" y="170" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-1.8" fill="#fff">Supper Rotation</text></mask>
+</defs>
+<style>
+.ring{transform-box:view-box;transform-origin:1068px 184px;animation:turn 14s cubic-bezier(.65,0,.35,1) infinite}
+@keyframes turn{0.000%{transform:rotate(0.000deg)}8.857%{transform:rotate(0.000deg)}14.286%{transform:rotate(-51.429deg)}23.143%{transform:rotate(-51.429deg)}28.571%{transform:rotate(-102.857deg)}37.429%{transform:rotate(-102.857deg)}42.857%{transform:rotate(-154.286deg)}51.714%{transform:rotate(-154.286deg)}57.143%{transform:rotate(-205.714deg)}66.000%{transform:rotate(-205.714deg)}71.429%{transform:rotate(-257.143deg)}80.286%{transform:rotate(-257.143deg)}85.714%{transform:rotate(-308.571deg)}94.571%{transform:rotate(-308.571deg)}100.000%{transform:rotate(-360.000deg)}}
+.up{animation:up 14s cubic-bezier(.65,0,.35,1) infinite}
+@keyframes up{0.000%{transform:rotate(0.000deg)}8.857%{transform:rotate(0.000deg)}14.286%{transform:rotate(51.429deg)}23.143%{transform:rotate(51.429deg)}28.571%{transform:rotate(102.857deg)}37.429%{transform:rotate(102.857deg)}42.857%{transform:rotate(154.286deg)}51.714%{transform:rotate(154.286deg)}57.143%{transform:rotate(205.714deg)}66.000%{transform:rotate(205.714deg)}71.429%{transform:rotate(257.143deg)}80.286%{transform:rotate(257.143deg)}85.714%{transform:rotate(308.571deg)}94.571%{transform:rotate(308.571deg)}100.000%{transform:rotate(360.000deg)}}
+.halo{transform-box:view-box;transform-origin:1068px 78px;animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.08)}}
+.orbit{transform-box:view-box;transform-origin:1068px 184px;animation:spin 60s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.tk{stroke-dasharray:16;stroke-dashoffset:16;animation:draw .35s ease-out forwards}
+.st{stroke-dasharray:140;stroke-dashoffset:140;animation:draw .5s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.shine{animation:shine 6s 1.2s ease-in-out infinite}
+@keyframes shine{0%{transform:translateX(-420px)}40%,100%{transform:translateX(900px)}}
+.steam{animation:steam 3.6s ease-in-out infinite}
+@keyframes steam{0%{opacity:0;transform:translateY(6px)}40%{opacity:.7}100%{opacity:0;transform:translateY(-14px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.tk,.st{stroke-dashoffset:0}.rise{opacity:1}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1280" height="360" fill="url(#bg)"/><rect width="1280" height="360" fill="url(#g1)"/><rect width="1280" height="360" fill="url(#g2)"/>
+<rect width="1280" height="360" fill="url(#grid)"/>
+
+<g class="rise" style="animation-delay:.1s">
+<text x="86" y="92" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#8ab4f8">RUI CODEX  ·  LEGAL &amp; PRIVACY</text>
+</g>
+<g class="rise" style="animation-delay:.25s">
+<text x="84" y="170" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-1.8" fill="url(#tx)">Supper Rotation</text>
+<g mask="url(#tm)"><rect class="shine" x="0" y="90" width="260" height="100" fill="url(#sh)" transform="skewX(-18)"/></g>
+</g>
+<g class="rise" style="animation-delay:.45s">
+<text x="86" y="208" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#dbe6ff">Rotate your family's own dinners fairly,</text>
+<text x="86" y="234" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#dbe6ff">no repeats, shopping list done.</text>
+</g>
+<g class="rise" style="animation-delay:.65s" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">
+<rect x="86" y="258" width="190" height="30" rx="15" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="181" y="278" text-anchor="middle" fill="#e8eaed">Privacy policy · 5 languages</text>
+<rect x="286" y="258" width="156" height="30" rx="15" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="364" y="278" text-anchor="middle" fill="#e8eaed">Data stays on device</text>
+<rect x="452" y="258" width="130" height="30" rx="15" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="517" y="278" text-anchor="middle" fill="#e8eaed">GDPR · Belgium</text>
+<text x="86" y="318" font-weight="500" fill="#a3b8dd">EN · TR · DE · ES · FR   —   Android app com.ruicodex.supperrotation</text>
+</g>
+
+<!-- shopping list card -->
+<g transform="translate(730 0)"><g class="rise" style="animation-delay:.8s">
+<rect x="0" y="70" width="168" height="230" rx="18" fill="#0f1a30" fill-opacity=".72" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="18" y="98" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#8ab4f8">SHOPPING LIST</text>
+<g transform="translate(18 0)"><g transform="translate(0 120)">
+<rect x="0" y="-11" width="16" height="16" rx="5" fill="none" stroke="#cfe0ff" stroke-opacity=".55"/>
+<path class="tk" style="animation-delay:0.90s" d="M3.5 -3.5 L7 0 L13 -7" fill="none" stroke="#4cc38a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="2" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#e8eaed">Tomatoes</text>
+<line class="st" style="animation-delay:1.05s" x1="26" y1="-3" x2="84" y2="-3" stroke="#e8eaed" stroke-opacity=".7" stroke-width="1.4"/>
+</g><g transform="translate(0 154)">
+<rect x="0" y="-11" width="16" height="16" rx="5" fill="none" stroke="#cfe0ff" stroke-opacity=".55"/>
+<path class="tk" style="animation-delay:1.45s" d="M3.5 -3.5 L7 0 L13 -7" fill="none" stroke="#4cc38a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="2" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#e8eaed">Basil</text>
+<line class="st" style="animation-delay:1.60s" x1="26" y1="-3" x2="64" y2="-3" stroke="#e8eaed" stroke-opacity=".7" stroke-width="1.4"/>
+</g><g transform="translate(0 188)">
+<rect x="0" y="-11" width="16" height="16" rx="5" fill="none" stroke="#cfe0ff" stroke-opacity=".55"/>
+<path class="tk" style="animation-delay:2.00s" d="M3.5 -3.5 L7 0 L13 -7" fill="none" stroke="#4cc38a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="2" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#e8eaed">Rice</text>
+<line class="st" style="animation-delay:2.15s" x1="26" y1="-3" x2="57" y2="-3" stroke="#e8eaed" stroke-opacity=".7" stroke-width="1.4"/>
+</g><g transform="translate(0 222)">
+<rect x="0" y="-11" width="16" height="16" rx="5" fill="none" stroke="#cfe0ff" stroke-opacity=".55"/>
+<path class="tk" style="animation-delay:2.55s" d="M3.5 -3.5 L7 0 L13 -7" fill="none" stroke="#4cc38a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="2" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#e8eaed">Paprika</text>
+<line class="st" style="animation-delay:2.70s" x1="26" y1="-3" x2="77" y2="-3" stroke="#e8eaed" stroke-opacity=".7" stroke-width="1.4"/>
+</g></g>
+<text x="18" y="276" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="500" fill="#a3b8dd">illustration</text>
+</g></g>
+
+<!-- week ring -->
+<circle cx="1068" cy="184" r="160" fill="url(#warm)"/>
+<g class="orbit"><circle cx="1068" cy="184" r="106" fill="none" stroke="#8ab4f8" stroke-opacity=".28" stroke-dasharray="2 9" stroke-linecap="round"/></g>
+<circle class="halo" cx="1068" cy="78" r="36" fill="none" stroke="#f6b73c" stroke-width="2.5"/>
+<text x="1068" y="32" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#f6b73c">TONIGHT</text>
+<g class="ring"><g transform="translate(1068.0 78.0)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#ff7a59" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Mon</text>
+</g></g><g transform="translate(1150.9 117.9)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#f6b73c" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Tue</text>
+</g></g><g transform="translate(1171.3 207.6)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#4cc38a" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Wed</text>
+</g></g><g transform="translate(1114.0 279.5)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#9b7bff" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Thu</text>
+</g></g><g transform="translate(1022.0 279.5)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#ff5d7a" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Fri</text>
+</g></g><g transform="translate(964.7 207.6)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#b5c95a" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Sat</text>
+</g></g><g transform="translate(985.1 117.9)"><g class="up">
+<circle r="27" fill="#0f1a30" stroke="#ffffff" stroke-opacity=".16"/>
+<circle r="20" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<circle r="14" fill="#5cc8ff" fill-opacity=".92"/>
+<circle r="14" fill="url(#gloss)"/>
+<text y="51" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#cfe0ff" fill-opacity=".85">Sun</text>
+</g></g></g>
+<!-- centre: plate with cutlery -->
+<g transform="translate(1068 184)">
+<circle r="46" fill="#0b1326" stroke="#ffffff" stroke-opacity=".18"/>
+<circle r="34" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+<g fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round">
+<path class="steam" d="M-10 2 q-6 -8 0 -16 q6 -8 0 -16"/>
+<path class="steam" style="animation-delay:1.2s" d="M0 0 q-6 -8 0 -16 q6 -8 0 -16"/>
+<path class="steam" style="animation-delay:2.4s" d="M10 2 q-6 -8 0 -16 q6 -8 0 -16"/>
+</g>
+<text y="24" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Inter,Roboto,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.2" fill="#a3b8dd">NO REPEATS</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="1279" height="359" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+</svg>
